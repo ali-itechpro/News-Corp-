@@ -1,0 +1,21 @@
+[   
+    {
+        "collectiontype": "Home", 
+        "collectionid":1001
+    },
+
+    {
+        "collectiontype": "Landing", 
+        "collectionid":1002
+    },
+
+    {
+        "collectiontype": "Politics", 
+        "collectionid":1003
+    },
+
+    {
+        "collectiontype": "Sports", 
+        "collectionid":1004
+    }
+]
